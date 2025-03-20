@@ -6,4 +6,4 @@
   
 - My e-mail and homepage are as follow:
   - 📮: crazybob01@qq.com
-  - [crazybob01.com](https://crazybob01.com/)
+  - 📅: [crazybob01.com](https://crazybob01.com/)
