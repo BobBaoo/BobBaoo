@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@BobBaoo**. A postgraduate student in Jinan University, Guangzhou, Guangdong Province.
+- 👋 Hi, I’m **@BobBaoo**, a postgraduate student in Jinan University, Guangzhou, Guangdong Province.
   
 - 👀 I major in **neuro-linguistics** with EEG signal. And my graduation project is about ***Visual statistical learning*** (VSL). Recently, I'm interested in language with brain-computer interface (BCI). And I’m currently learning methods of machine learning and deep learning.
   
